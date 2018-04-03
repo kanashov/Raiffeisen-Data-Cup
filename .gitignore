@@ -1,2 +1,14 @@
+.ipynb_checkpoints/*
 data/*
-
+LightGBM/*
+work/*
+*.png
+*.docx
+*.html
+*.xlsx
+*.txt
+*.csv
+*.pdf
+Quickstart.ipynb
+Untitled.ipynb
+Untitled1.ipynb

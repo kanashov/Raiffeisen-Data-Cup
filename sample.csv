@@ -1,4 +1,4 @@
-_ID_,_HOME_LAT_,_HOME_LON_,_WORK_LAT_,_WORK_LON_
+customer_id,work_add_lat,work_add_lon,home_add_lat,home_add_lon
 00021683ccb416637fe9a4cd35e4606e,0,0,0,0
 0002d0f8a642272b41c292c12ab6e602,0,0,0,0
 0004d182d9fede3ba2534b2d5e5ad27e,0,0,0,0
